@@ -60,5 +60,7 @@ Codename:	noble
 **References & Credits**
 
 Researcher - Gareth C
+
 Company - AnchorSec Ltd. (https://www.anchorsec.co.uk)
+
 Blog - https://www.anchorsec.co.uk/insights/having-a-tiff-a-complicated-love-affair-with-vulnerability-research
