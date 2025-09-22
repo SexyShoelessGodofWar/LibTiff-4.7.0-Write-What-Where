@@ -1,4 +1,4 @@
-# LibTiff-4.7.0-Write-What-Where
+# LibTiff-4.7.0-Write-What-Where -  CVE-2025-9900
 This is a placeholder for a vulnerability discovered in LibTiff
 
 
@@ -64,3 +64,4 @@ Researcher - Gareth C
 Company - AnchorSec Ltd. (https://www.anchorsec.co.uk)
 
 Blog - https://www.anchorsec.co.uk/insights/having-a-tiff-a-complicated-love-affair-with-vulnerability-research
+CVE - https://access.redhat.com/security/cve/cve-2025-9900
